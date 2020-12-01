@@ -1,0 +1,11 @@
+html{
+    font-family: 'lato';
+}
+.display-col{
+    background-color: #F2F1F1;
+    margin: 5px;
+}
+
+#btns{
+    text-align: center;
+}
